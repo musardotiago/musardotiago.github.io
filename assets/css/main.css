@@ -1074,6 +1074,7 @@ section,
   transition: 0.3s ease-in-out;
   visibility: hidden;
   opacity: 0;
+  max-height: 0px;
 }
 
 .why-us .faq-container .faq-item .faq-content p {
@@ -1114,6 +1115,7 @@ section,
   visibility: visible;
   opacity: 1;
   padding-top: 10px;
+  max-height: fit-content;
 }
 
 .why-us .faq-container .faq-active .faq-toggle {
