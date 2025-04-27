@@ -16,7 +16,7 @@
     const selectBody = document.querySelector('body');
     const selectHeader = document.querySelector('#header');
     if (!selectHeader.classList.contains('scroll-up-sticky') && !selectHeader.classList.contains('sticky-top') && !selectHeader.classList.contains('fixed-top')) return;
-    window.scrollY > 100 ? selectBody.classList.add('scrolled') : selectBody.classList.remove('scrolled');
+    window.scrollY > 0 ? selectBody.classList.add('scrolled') : selectBody.classList.remove('scrolled');
   }
 
   document.addEventListener('scroll', toggleScrolled);
@@ -102,7 +102,12 @@
       mirror: false
     });
   }
-  window.addEventListener('load', aosInit);
+  window.addEventListener('load', () => {
+    setTimeout(() => {
+      aosInit();
+      AOS.refresh(); // força o AOS a recalcular as posições
+    }, 200); // 200ms ou mais se necessário
+  });
 
   /**
    * Initiate glightbox
@@ -172,6 +177,8 @@
         filter: filter,
         sortBy: sort
       });
+
+      AOS.refresh();
     });
 
     isotopeItem.querySelectorAll('.isotope-filters li').forEach(function(filters) {
