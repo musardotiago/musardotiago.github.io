@@ -995,38 +995,71 @@
     "name": "Torta de atum",
     "category": "salgados",
     "ingredients": [
+      "3 ovos",
+      "1 xícara de leite sem lactose ou bebida vegetal sem açúcar (240 ml)",
+      "½ xícara de óleo (120 ml)",
+      "1 xícara de farinha de arroz (aproximadamente 140 g)",
+      "½ xícara de amido de milho (aproximadamente 60 g)",
+      "1 colher de sopa de fermento químico em pó (12 g)",
+      "½ colher de chá de sal",
       "2 latas de atum escorrido",
-      "1 tomate picado",
+      "1 tomate médio picado, sem excesso de sementes",
       "½ cebola picada",
-      "Milho a gosto",
-      "Cheiro-verde a gosto",
-      "Sal e temperos a gosto"
+      "½ lata de milho-verde escorrido",
+      "2 colheres de sopa de cheiro-verde picado",
+      "Sal e pimenta-do-reino a gosto",
+      "1 colher de sopa de azeite (opcional)",
+      "Orégano a gosto (opcional)"
     ],
     "ingredientGroups": [
       {
-        "title": "Ingredientes do recheio",
+        "title": "Massa (quantidades complementadas)",
+        "items": [
+          "3 ovos",
+          "1 xícara de leite sem lactose ou bebida vegetal sem açúcar (240 ml)",
+          "½ xícara de óleo (120 ml)",
+          "1 xícara de farinha de arroz (aproximadamente 140 g)",
+          "½ xícara de amido de milho (aproximadamente 60 g)",
+          "1 colher de sopa de fermento químico em pó (12 g)",
+          "½ colher de chá de sal"
+        ]
+      },
+      {
+        "title": "Recheio",
         "items": [
           "2 latas de atum escorrido",
-          "1 tomate picado",
+          "1 tomate médio picado, sem excesso de sementes",
           "½ cebola picada",
-          "Milho a gosto",
-          "Cheiro-verde a gosto",
-          "Sal e temperos a gosto"
+          "½ lata de milho-verde escorrido",
+          "2 colheres de sopa de cheiro-verde picado",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher de sopa de azeite (opcional)",
+          "Orégano a gosto (opcional)"
         ]
       }
     ],
     "steps": [
-      "No liquidificador, bata os ovos, o leite, o óleo e o sal.",
-      "Acrescente a farinha de arroz e o amido de milho e bata até ficar homogêneo.",
-      "Adicione o fermento e misture delicadamente.",
-      "Em uma tigela, misture o atum, o tomate, a cebola, o milho e os temperos, depois despeje metade da massa em uma forma untada.",
-      "Espalhe o recheio e cubra com o restante da massa.",
-      "Leve ao forno preaquecido a 180 °C por aproximadamente 35 a 40 minutos, até dourar."
+      "Preaqueça o forno a 180 °C e unte uma forma média de aproximadamente 20 × 30 cm com óleo e farinha de arroz.",
+      "No liquidificador, bata os ovos, o leite sem lactose, o óleo e o sal por aproximadamente 1 minuto.",
+      "Acrescente a farinha de arroz e o amido de milho e bata até obter uma massa homogênea.",
+      "Adicione o fermento e misture delicadamente com uma espátula.",
+      "Em uma tigela, misture o atum escorrido, o tomate, a cebola, o milho, o cheiro-verde e os temperos.",
+      "Despeje metade da massa na forma untada.",
+      "Distribua o recheio uniformemente e cubra com o restante da massa.",
+      "Asse por aproximadamente 35 a 40 minutos, até a superfície ficar dourada e a massa estar completamente assada.",
+      "Aguarde 5 a 10 minutos antes de cortar e servir."
     ],
-    "time": "Tempo não informado",
+    "time": "35 a 40 minutos de forno",
     "servings": "aproximadamente 8 porções",
     "notes": "",
-    "needsReview": true
+    "tips": [
+      "Massa mais fofinha: substitua ¼ de xícara da farinha de arroz por fécula de batata.",
+      "Recheio mais úmido: acrescente 2 colheres de sopa de molho de tomate ao atum.",
+      "Mais sabor: refogue rapidamente a cebola com azeite antes de misturar o recheio.",
+      "Sem lactose: utilize leite zero lactose ou bebida vegetal sem açúcar.",
+      "Sem glúten: confira se a farinha de arroz, o amido e o fermento possuem indicação adequada para dietas sem glúten e evite contaminação cruzada."
+    ],
+    "needsReview": false
   },
   {
     "id": 23,

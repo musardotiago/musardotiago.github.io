@@ -1,6 +1,7 @@
 import capa from "@/assets/capa-livro.jpg.asset.json";
 import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
+import { companyName } from "@/content/site";
 
 const floaters = [
   { e: "🍓", c: "left-[6%] top-[18%]", r: "-12deg" },
@@ -30,8 +31,9 @@ export function Hero() {
             Projeto COLAB • 2026
           </span>
           <h1 className="mt-5 text-4xl leading-[1.1] text-primary sm:text-5xl lg:text-6xl">
-            Sem glúten, sem lactose… mas com <span className="rounded-lg bg-secondary px-2">MUITO</span> sabor!
+            {companyName}
           </h1>
+          <p className="mt-4 font-display text-xl font-bold text-primary">Sem glúten, sem lactose… mas com MUITO sabor!</p>
           <p className="mx-auto mt-5 max-w-xl text-lg text-foreground/80 lg:mx-0">
             Quem disse que receitas sem glúten e sem lactose precisam ser sem graça? Descubra um livro cheio de
             criatividade, sabores e ideias deliciosas!

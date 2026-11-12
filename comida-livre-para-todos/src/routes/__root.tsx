@@ -78,7 +78,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Além do Glúten & da Lactose" },
+      { title: "Comida Livre para Todos" },
       { name: "description", content: "Livro de receitas sem glúten e sem lactose — Projeto COLAB 2026." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

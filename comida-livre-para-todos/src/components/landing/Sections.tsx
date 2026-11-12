@@ -1,10 +1,10 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import mascot from "@/assets/mascote_comida_para_todos.jpeg.asset.json";
 import logo from "@/assets/logo_comida_para_todos.jpeg.asset.json";
 import { QRCodeSVG } from "qrcode.react";
 import { Button } from "@/components/ui/button";
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
-import { categories, colab, creators, fair, journey, recipes, teamMessage, type CategoryId, type Recipe } from "@/content/site";
+import { categories, colab, companyName, creators, fair, journey, officialSiteUrl, recipes, teamMessage, type CategoryId, type Recipe } from "@/content/site";
 import { Pending, Reveal, SectionTitle } from "./shared";
 
 export function Why() {
@@ -110,6 +110,7 @@ export function Flavors() {
               {open.ingredientGroups?.map((group) => <div key={group.title}><p className="mb-2 font-bold">{group.title}</p><ul className="list-disc space-y-1 pl-5">{group.items.map((x, i) => <li key={i}>{x}</li>)}</ul></div>)}
               <h4 className="text-primary">Modo de preparo</h4>
               <ol className="list-decimal space-y-3 pl-5">{open.steps.map((x) => <li key={x}>{x}</li>)}</ol>
+               {open.tips && <><h4 className="text-primary">Dicas para melhorar a receita</h4><ul className="list-disc space-y-3 pl-5">{open.tips.map((tip) => <li key={tip}>{tip}</li>)}</ul></>}
               {open.needsReview && <p role="note" className="rounded-2xl bg-secondary p-3 text-sm"><strong>Receita incompleta no documento:</strong> faltam os ingredientes e as quantidades da massa. O preparo menciona leite sem especificar o tipo. Confirme esses dados com a equipe antes de preparar.</p>}
               {open.notes && <p className="rounded-2xl bg-secondary p-3 text-sm">🌾🥛 {open.notes}</p>}
               <p className="text-sm text-muted-foreground">Confira os rótulos dos ingredientes quanto a glúten e lactose e evite contaminação cruzada. As receitas não substituem orientação individual sobre alergias e restrições alimentares.</p>
@@ -209,9 +210,6 @@ export function Colab() {
 }
 
 export function Fair() {
-  const [url, setUrl] = useState("");
-  useEffect(() => setUrl(window.location.origin), []);
-  const isPreview = url.includes("id-preview") || url.includes("localhost");
   return (
     <section id="feira" className="bg-gingham px-5 py-20">
       <SectionTitle kicker="Feira 2026" title="Venha conhecer nossa criação!" subtitle="Nosso livro nasceu de uma ideia, ganhou forma com o trabalho em equipe e agora está pronto para ser compartilhado com vocês!" />
@@ -231,12 +229,11 @@ export function Fair() {
         </Reveal>
         <Reveal delay={120}>
           <div className="mx-auto max-w-xs rotate-1 rounded-3xl border-2 border-dashed border-primary bg-secondary p-6 text-center shadow-sticker">
-            <p className="font-display text-lg font-bold text-primary">Além do Glúten & da Lactose</p>
+            <p className="font-display text-lg font-bold text-primary">{companyName}</p>
             <div className="mx-auto my-4 w-fit rounded-2xl bg-card p-3">
-              {url ? <QRCodeSVG value={url} size={150} fgColor="#704835" bgColor="#ffffff" aria-label="QR Code do site" /> : <div className="h-[150px] w-[150px]" />}
+              <QRCodeSVG value={officialSiteUrl} size={150} marginSize={4} aria-label="QR Code do site oficial" />
             </div>
             <p className="text-sm">Aponte a câmera e prove!</p>
-            {isPreview && <p className="mt-2 text-xs text-muted-foreground">O QR Code final aparece com o endereço real depois que o site for publicado.</p>}
             <Button variant="hero" size="sm" className="mt-4" onClick={() => window.print()}>🖨️ Imprimir</Button>
           </div>
         </Reveal>
@@ -250,7 +247,7 @@ export function Footer() {
     <footer className="bg-gingham border-t-4 border-primary px-5 py-12 text-center">
       <div className="mx-auto max-w-xl rounded-3xl bg-card/90 p-6 shadow-soft">
         <img src={logo.url} alt="Comida Livre Para Todos" className="mx-auto mb-4 h-32 w-32 rounded-2xl object-contain" loading="lazy" />
-        <p className="font-display text-2xl font-bold text-primary">Além do Glúten & da Lactose</p>
+        <p className="font-display text-2xl font-bold text-primary">{companyName}</p>
         <p className="mt-2">Uma ideia feita com criatividade, carinho e muito sabor!</p>
         <p className="mt-4 text-sm text-muted-foreground">Projeto COLAB • Feira de Empreendedorismo 2026 • Colégio Ideal</p>
         <p className="text-sm text-muted-foreground">Criado por Stella, Davi e Valentina.</p>

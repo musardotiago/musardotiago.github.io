@@ -10,6 +10,9 @@ import valentina from "@/assets/Valentina.jpeg.asset.json";
 
 export type CategoryId = "doces" | "geladas" | "bolos" | "salgados";
 
+export const companyName = "Comida Livre para Todos";
+export const officialSiteUrl = "https://mitsd.com.br/comida-livre-para-todos/";
+
 export const categories: { id: CategoryId; name: string; emoji: string; description: string }[] = [
   { id: "doces", name: "Doces", emoji: "🍫", description: "Brigadeiros, brownies e docinhos para adoçar o dia." },
   { id: "geladas", name: "Sobremesas geladas", emoji: "🍦", description: "Sorvetes e delícias fresquinhas." },
@@ -29,6 +32,7 @@ export type Recipe = {
   time: string; // ex.: "30 minutos"
   servings: string; // ex.: "8 porções"
   notes: string; // observações sobre glúten e lactose
+  tips?: string[];
 };
 
 /** Adicionem as receitas reais aqui quando estiverem prontas. */
@@ -66,7 +70,7 @@ export const colab = [
 ];
 
 export const fair = {
-  date: "",
-  time: "",
-  place: "",
+  date: "13/11/2026",
+  time: "Período matutino",
+  place: "St. G Norte Nº 26 - Taguatinga, Brasília",
 };
