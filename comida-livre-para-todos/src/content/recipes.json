@@ -1,0 +1,1761 @@
+[
+  {
+    "id": 1,
+    "name": "Bolo de chocolate com farinha de amêndoas",
+    "category": "bolos",
+    "ingredients": [
+      "2 xícaras de farinha de amêndoas",
+      "½ xícara de cacau em pó 100%",
+      "3 ovos",
+      "¾ de xícara de açúcar demerara",
+      "½ xícara de leite de coco",
+      "¼ de xícara de óleo de coco",
+      "1 colher de sopa de fermento químico",
+      "1 pitada de sal"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de farinha de amêndoas",
+          "½ xícara de cacau em pó 100%",
+          "3 ovos",
+          "¾ de xícara de açúcar demerara",
+          "½ xícara de leite de coco",
+          "¼ de xícara de óleo de coco",
+          "1 colher de sopa de fermento químico",
+          "1 pitada de sal"
+        ]
+      }
+    ],
+    "steps": [
+      "Em uma tigela, misture os ovos e o açúcar.",
+      "Acrescente o óleo de coco e o leite de coco.",
+      "Adicione a farinha de amêndoas, o cacau e o sal.",
+      "Misture até formar uma massa homogênea.",
+      "Incorpore delicadamente o fermento.",
+      "Despeje em uma forma untada e asse por aproximadamente 30 a 35 minutos.",
+      "Espere esfriar antes de desenformar."
+    ],
+    "time": "Preparo: 15 minutos • Forno: 30–35 minutos",
+    "servings": "8 fatias",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 2,
+    "name": "Bolo de laranja fofinho",
+    "category": "bolos",
+    "ingredients": [
+      "2 xícaras de farinha de arroz",
+      "3 ovos",
+      "1 xícara de açúcar",
+      "¾ de xícara de suco natural de laranja",
+      "½ xícara de óleo",
+      "Raspas de uma laranja",
+      "1 colher de sopa de fermento químico"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de farinha de arroz",
+          "3 ovos",
+          "1 xícara de açúcar",
+          "¾ de xícara de suco natural de laranja",
+          "½ xícara de óleo",
+          "Raspas de uma laranja",
+          "1 colher de sopa de fermento químico"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata os ovos, o açúcar, o óleo e o suco de laranja no liquidificador.",
+      "Transfira para uma tigela e acrescente a farinha de arroz.",
+      "Misture até ficar homogêneo.",
+      "Acrescente as raspas de laranja e o fermento.",
+      "Coloque em uma forma untada.",
+      "Asse por 35 a 40 minutos ou até que um palito saia limpo."
+    ],
+    "time": "Preparo: 15 minutos • Forno: 35-40 minutos",
+    "servings": "10 fatias",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 3,
+    "name": "Bolo de banana com canela",
+    "category": "bolos",
+    "ingredients": [
+      "3 bananas maduras amassadas",
+      "2 ovos",
+      "1½ xícaras de farinha de aveia certificada sem glúten",
+      "½ xícara de açúcar mascavo",
+      "¼ de xícara de óleo",
+      "1 colher de chá de canela",
+      "1 colher de sopa de fermento químico"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "3 bananas maduras amassadas",
+          "2 ovos",
+          "1½ xícaras de farinha de aveia certificada sem glúten",
+          "½ xícara de açúcar mascavo",
+          "¼ de xícara de óleo",
+          "1 colher de chá de canela",
+          "1 colher de sopa de fermento químico"
+        ]
+      }
+    ],
+    "steps": [
+      "Amasse as bananas em uma tigela.",
+      "Acrescente os ovos, o açúcar e o óleo.",
+      "Adicione a farinha de aveia e a canela.",
+      "Misture até incorporar todos os ingredientes.",
+      "Acrescente o fermento por último.",
+      "Despeje em uma forma untada e asse por 30 a 35 minutos."
+    ],
+    "time": "Preparo: 10 minutos • Forno: 30–35 minutos",
+    "servings": "10 fatias",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 4,
+    "name": "Bolo de cenoura com cobertura de chocolate",
+    "category": "bolos",
+    "ingredients": [
+      "2 cenouras médias picadas",
+      "3 ovos",
+      "1 xícara de açúcar",
+      "½ xícaras de óleo",
+      "1½ xícaras de farinha de arroz",
+      "½ xícara de amido de milho",
+      "1 colher de sopa de fermento químico",
+      "½ xícara de leite de coco",
+      "3 colheres de sopa de cacau em pó",
+      "3 colheres de sopa de açúcar",
+      "1 colher de sopa de óleo de coco"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "2 cenouras médias picadas",
+          "3 ovos",
+          "1 xícara de açúcar",
+          "½ xícaras de óleo",
+          "1½ xícaras de farinha de arroz",
+          "½ xícara de amido de milho",
+          "1 colher de sopa de fermento químico"
+        ]
+      },
+      {
+        "title": "Ingredientes da cobertura",
+        "items": [
+          "½ xícara de leite de coco",
+          "3 colheres de sopa de cacau em pó",
+          "3 colheres de sopa de açúcar",
+          "1 colher de sopa de óleo de coco"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata no liquidificador a cenoura, os ovos, o açúcar e o óleo.",
+      "Em uma tigela, misture a farinha de arroz e o amido.",
+      "Acrescente a mistura líquida e mexa bem.",
+      "Adicione o fermento.",
+      "Despeje em uma forma untada e asse por 35 a 40 minutos.",
+      "Para a cobertura, misture todos os ingredientes em uma panela.",
+      "Cozinhe em fogo baixo até engrossar levemente.",
+      "Espalhe sobre o bolo depois de desenformado."
+    ],
+    "time": "Preparo: 15 minutos • Forno: 35–40 minutos",
+    "servings": "10 fatias",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 5,
+    "name": "Bolo de fubá com coco",
+    "category": "bolos",
+    "ingredients": [
+      "1½ xícara de fubá",
+      "½ xícara de farinha de arroz",
+      "3 ovos",
+      "1 xícara de leite de coco",
+      "¾ de xícara de açúcar",
+      "½ xícara de coco ralado sem açúcar",
+      "⅓ de xícara de óleo",
+      "1 colher de sopa de fermento químico"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "1½ xícara de fubá",
+          "½ xícara de farinha de arroz",
+          "3 ovos",
+          "1 xícara de leite de coco",
+          "¾ de xícara de açúcar",
+          "½ xícara de coco ralado sem açúcar",
+          "⅓ de xícara de óleo",
+          "1 colher de sopa de fermento químico"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata os ovos, o açúcar, o óleo e o leite de coco.",
+      "Acrescente o fubá e a farinha de arroz.",
+      "Misture até formar uma massa uniforme.",
+      "Adicione o coco ralado e o fermento.",
+      "Coloque em uma forma untada.",
+      "Asse por aproximadamente 35 minutos."
+    ],
+    "time": "Preparo: 15 minutos • Forno: 35 minutos",
+    "servings": "10 fatias",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 6,
+    "name": "Bolo de maçã com castanhas",
+    "category": "bolos",
+    "ingredients": [
+      "2 maçãs picadas",
+      "2 ovos",
+      "1½ xícara de farinha de arroz",
+      "½ xícara de farinha de amêndoas",
+      "¾ de xícara de açúcar mascavo",
+      "½ xícara de óleo",
+      "½ xícara de água",
+      "½ xícaras de castanhas picadas",
+      "1 colher de chá de canela",
+      "1 colher de sopa de fermento químico"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 maçãs picadas",
+          "2 ovos",
+          "1½ xícara de farinha de arroz",
+          "½ xícara de farinha de amêndoas",
+          "¾ de xícara de açúcar mascavo",
+          "½ xícara de óleo",
+          "½ xícara de água",
+          "½ xícaras de castanhas picadas",
+          "1 colher de chá de canela",
+          "1 colher de sopa de fermento químico"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata os ovos, o açúcar, o óleo e a água.",
+      "Acrescente as farinhas e a canela.",
+      "Misture as maçãs picadas e as castanhas.",
+      "Incorpore o fermento.",
+      "Coloque em uma forma untada.",
+      "Asse por 35 a 40 minutos."
+    ],
+    "time": "Preparo: 15 minutos • Forno: 35–40 minutos",
+    "servings": "10 fatias",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 7,
+    "name": "Bolo de limão com calda cítrica",
+    "category": "bolos",
+    "ingredients": [
+      "1½ xícara de farinha de arroz",
+      "½ xícara de amido de milho",
+      "3 ovos",
+      "¾ de xícara de açúcar",
+      "½ xícara de leite de coco",
+      "⅓ de xícara de óleo",
+      "Suco de 1 limão",
+      "Raspas de 1 limão",
+      "1 colher de sopa de fermento químico",
+      "½ xícara de açúcar de confeiteiro",
+      "2 colheres de sopa de suco de limão"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "1½ xícara de farinha de arroz",
+          "½ xícara de amido de milho",
+          "3 ovos",
+          "¾ de xícara de açúcar",
+          "½ xícara de leite de coco",
+          "⅓ de xícara de óleo",
+          "Suco de 1 limão",
+          "Raspas de 1 limão",
+          "1 colher de sopa de fermento químico"
+        ]
+      },
+      {
+        "title": "Ingredientes da calda",
+        "items": [
+          "½ xícara de açúcar de confeiteiro",
+          "2 colheres de sopa de suco de limão"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata os ovos com o açúcar.",
+      "Acrescente o leite de coco, o óleo e o suco de limão.",
+      "Adicione a farinha de arroz e o amido.",
+      "Misture as raspas e o fermento.",
+      "Despeje em forma untada e asse por aproximadamente 35 minutos.",
+      "Misture os ingredientes da calda e espalhe sobre o bolo frio."
+    ],
+    "time": "Preparo: 15 minutos • Forno: 35 minutos",
+    "servings": "10 fatias",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 8,
+    "name": "Torta de maçã com canela",
+    "category": "bolos",
+    "ingredients": [
+      "1½ xícara de farinha de arroz",
+      "½ xícara de farinha de amêndoas",
+      "1 ovo",
+      "¼ de xícara de óleo de coco",
+      "¼ de xícara de açúcar",
+      "2 a 3 colheres de sopa de água",
+      "3 maçãs fatiadas",
+      "3 colheres de sopa de açúcar mascavo",
+      "1 colher de chá de canela",
+      "Suco de ½ limão"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "1½ xícara de farinha de arroz",
+          "½ xícara de farinha de amêndoas",
+          "1 ovo",
+          "¼ de xícara de óleo de coco",
+          "¼ de xícara de açúcar",
+          "2 a 3 colheres de sopa de água"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "3 maçãs fatiadas",
+          "3 colheres de sopa de açúcar mascavo",
+          "1 colher de chá de canela",
+          "Suco de ½ limão"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture as farinhas, o açúcar, o ovo e o óleo.",
+      "Acrescente a água aos poucos até formar uma massa moldável.",
+      "Forre o fundo e as laterais de uma forma de torta.",
+      "Misture as maçãs com o açúcar, a canela e o limão.",
+      "Distribua o recheio sobre a massa.",
+      "Asse por 35 a 40 minutos, até a maçã ficar macia."
+    ],
+    "time": "Preparo: 20 minutos • Forno: 35–40 minutos",
+    "servings": "8 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 9,
+    "name": "Torta cremosa de limão",
+    "category": "bolos",
+    "ingredients": [
+      "1½ xícaras de farinha de amêndoas",
+      "2 colheres de sopa de óleo de coco",
+      "2 colheres de sopa de açúcar",
+      "200 ml de leite de coco",
+      "200 g de castanhas-de-caju cruas, deixadas de molho por 4 horas",
+      "½ xícara de açúcar",
+      "Suco de 2 limões",
+      "Raspas de limão"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da base",
+        "items": [
+          "1½ xícaras de farinha de amêndoas",
+          "2 colheres de sopa de óleo de coco",
+          "2 colheres de sopa de açúcar"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "200 ml de leite de coco",
+          "200 g de castanhas-de-caju cruas, deixadas de molho por 4 horas",
+          "½ xícara de açúcar",
+          "Suco de 2 limões",
+          "Raspas de limão"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture os ingredientes da base até formar uma farofa úmida.",
+      "Pressione a mistura no fundo de uma forma pequena.",
+      "Asse por 10 minutos e deixe esfriar.",
+      "Escorra as castanhas e bata no liquidificador com o leite de coco e o açúcar.",
+      "Acrescente o suco de limão e bata novamente até ficar cremoso.",
+      "Coloque o recheio sobre a base.",
+      "Finalize com raspas de limão e leve à geladeira por pelo menos 3 horas."
+    ],
+    "time": "Preparo: 25 minutos • Geladeira: 3 horas",
+    "servings": "8 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 10,
+    "name": "Torta de chocolate com morangos",
+    "category": "bolos",
+    "ingredients": [
+      "1 xícara de farinha de amêndoas",
+      "½ xícara de farinha de coco",
+      "2 colheres de sopa de cacau",
+      "3 colheres de sopa de óleo de coco",
+      "3 colheres de sopa de açúcar",
+      "200 g de chocolate amargo sem leite",
+      "200 ml de leite de coco",
+      "1 caixa de morangos"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da base",
+        "items": [
+          "1 xícara de farinha de amêndoas",
+          "½ xícara de farinha de coco",
+          "2 colheres de sopa de cacau",
+          "3 colheres de sopa de óleo de coco",
+          "3 colheres de sopa de açúcar"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "200 g de chocolate amargo sem leite",
+          "200 ml de leite de coco",
+          "1 caixa de morangos"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture todos os ingredientes da base até formar uma massa úmida.",
+      "Forre o fundo de uma forma de torta.",
+      "Asse por 12 minutos e deixe esfriar.",
+      "Aqueça o leite de coco sem deixar ferver.",
+      "Acrescente o chocolate picado e misture até derreter completamente.",
+      "Despeje o creme sobre a base.",
+      "Distribua os morangos e leve à geladeira por 3 horas."
+    ],
+    "time": "Preparo: 25 minutos • Geladeira: 3 horas",
+    "servings": "8 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 11,
+    "name": "Pão de queijo de mandioca sem queijo",
+    "category": "salgados",
+    "ingredients": [
+      "2 xícaras de mandioca cozida e amassada",
+      "1 xícara de polvilho doce",
+      "½ xícara de polvilho azedo",
+      "¼ de xícara de azeite",
+      "½ colher de chá de sal",
+      "2 colheres de sopa de água, se necessário"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de mandioca cozida e amassada",
+          "1 xícara de polvilho doce",
+          "½ xícara de polvilho azedo",
+          "¼ de xícara de azeite",
+          "½ colher de chá de sal",
+          "2 colheres de sopa de água, se necessário"
+        ]
+      }
+    ],
+    "steps": [
+      "Cozinhe a mandioca até ficar bem macia e amasse.",
+      "Misture os dois tipos de polvilho.",
+      "Acrescente a mandioca, o azeite e o sal.",
+      "Amasse até formar uma massa uniforme.",
+      "Se estiver muito seca, acrescente água aos poucos.",
+      "Faça bolinhas e coloque em uma assadeira.",
+      "Asse por 25 a 30 minutos, até dourar levemente."
+    ],
+    "time": "Preparo: 20 minutos • Forno: 25–30 minutos",
+    "servings": "15 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 12,
+    "name": "Coxinha de frango com massa de batata-doce",
+    "category": "salgados",
+    "ingredients": [
+      "2 xícaras de batata-doce cozida e amassada",
+      "½ xícara de farinha de arroz",
+      "1 colher de sopa de azeite",
+      "Sal a gosto",
+      "1½ xícara de frango cozido e desfiado",
+      "½ cebola picada",
+      "1 tomate picado sem sementes",
+      "1 colher de sopa de azeite",
+      "Cheiro-verde e sal a gosto"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "2 xícaras de batata-doce cozida e amassada",
+          "½ xícara de farinha de arroz",
+          "1 colher de sopa de azeite",
+          "Sal a gosto"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "1½ xícara de frango cozido e desfiado",
+          "½ cebola picada",
+          "1 tomate picado sem sementes",
+          "1 colher de sopa de azeite",
+          "Cheiro-verde e sal a gosto"
+        ]
+      }
+    ],
+    "steps": [
+      "Refogue a cebola e o tomate no azeite.",
+      "Acrescente o frango e tempere com sal e cheiro-verde.",
+      "Misture a batata-doce, a farinha de arroz, o azeite e o sal.",
+      "Amasse até obter uma massa moldável.",
+      "Abra pequenas porções na palma da mão.",
+      "Coloque o recheio no centro e modele em formato de coixinha.",
+      "Disponha em uma assadeira untada.",
+      "Asse a 200 °C por aproximadamente 25 minutos."
+    ],
+    "time": "Preparo: 35 minutos • Forno: 25 minutos",
+    "servings": "12 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 13,
+    "name": "Torta salgada de frango de liquidificador",
+    "category": "salgados",
+    "ingredients": [
+      "3 ovos",
+      "1 xícara de farinha de arroz",
+      "½ xícara de amido de milho",
+      "1 xícara de água",
+      "⅓ de xícara de óleo",
+      "1 colher de sopa de fermento químico",
+      "Sal a gosto",
+      "2 xícaras de frango cozido e desfiado",
+      "1 tomate picado",
+      "½ cebola",
+      "Milho a gosto",
+      "Cheiro-verde"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "3 ovos",
+          "1 xícara de farinha de arroz",
+          "½ xícara de amido de milho",
+          "1 xícara de água",
+          "⅓ de xícara de óleo",
+          "1 colher de sopa de fermento químico",
+          "Sal a gosto"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "2 xícaras de frango cozido e desfiado",
+          "1 tomate picado",
+          "½ cebola",
+          "Milho a gosto",
+          "Cheiro-verde"
+        ]
+      }
+    ],
+    "steps": [
+      "Refogue os ingredientes do recheio e reserve.",
+      "Bata no liquidificador os ovos, a água e o óleo.",
+      "Acrescente as farinhas e o sal.",
+      "Misture o fermento por último.",
+      "Coloque metade da massa em uma forma untada.",
+      "Distribua o recheio e cubra com o restante da massa.",
+      "Asse por 35 a 40 minutos."
+    ],
+    "time": "Preparo: 20 minutos • Forno: 35–40 minutos",
+    "servings": "8 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 14,
+    "name": "Crepioca recheada com frango",
+    "category": "salgados",
+    "ingredients": [
+      "2 ovos",
+      "4 colheres de sopa de goma de tapioca",
+      "1 xícara de frango desfiado",
+      "1 tomate pequeno picado",
+      "1 colher de sopa de azeite",
+      "Sal e orégano a gosto"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 ovos",
+          "4 colheres de sopa de goma de tapioca",
+          "1 xícara de frango desfiado",
+          "1 tomate pequeno picado",
+          "1 colher de sopa de azeite",
+          "Sal e orégano a gosto"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata os ovos com a tapioca e o sal.",
+      "Aqueça uma frigideira antiaderente.",
+      "Despeje metade da mistura e espalhe.",
+      "Cozinhe dos dois lados.",
+      "Refogue o frango com o tomate e os temperos.",
+      "Recheie a crepioca e dobre ao meio.",
+      "Repita com o restante da massa."
+    ],
+    "time": "Preparo: 15 minutos",
+    "servings": "2 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 15,
+    "name": "Muffin salgado de legumes",
+    "category": "salgados",
+    "ingredients": [
+      "2 ovos",
+      "1 xícara de farinha de arroz",
+      "½ xícara de bebida vegetal sem açúcar",
+      "¼ de xícara de azeite",
+      "½ cenoura ralada",
+      "½ abobrinha ralada e espremida",
+      "1 colher de sopa de fermento químico",
+      "Sal e ervas a gosto"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 ovos",
+          "1 xícara de farinha de arroz",
+          "½ xícara de bebida vegetal sem açúcar",
+          "¼ de xícara de azeite",
+          "½ cenoura ralada",
+          "½ abobrinha ralada e espremida",
+          "1 colher de sopa de fermento químico",
+          "Sal e ervas a gosto"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata os ovos com o azeite e a bebida vegetal.",
+      "Acrescente a farinha de arroz.",
+      "Misture a cenoura e a abobrinha.",
+      "Tempere com sal e ervas.",
+      "Adicione o fermento.",
+      "Distribua em forminhas untadas.",
+      "Asse por aproximadamente 25 minutos."
+    ],
+    "time": "Preparo: 15 minutos • Forno: 25 minutos",
+    "servings": "8 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 16,
+    "name": "Empadinha de frango com farinha de grão-de-bico",
+    "category": "salgados",
+    "ingredients": [
+      "1½ xícara de farinha de grão-de-bico",
+      "½ xícara de farinha de arroz",
+      "1/3 de xícaras de azeite",
+      "1 ovo",
+      "2 colheres de sopa de água",
+      "Sal a gosto",
+      "1½ xícaras de frango desfiado",
+      "½ cebola picada",
+      "1 tomate pequeno",
+      "1 colher de sopa de azeite",
+      "Cheiro-verde"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "1½ xícara de farinha de grão-de-bico",
+          "½ xícara de farinha de arroz",
+          "1/3 de xícaras de azeite",
+          "1 ovo",
+          "2 colheres de sopa de água",
+          "Sal a gosto"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "1½ xícaras de frango desfiado",
+          "½ cebola picada",
+          "1 tomate pequeno",
+          "1 colher de sopa de azeite",
+          "Cheiro-verde"
+        ]
+      }
+    ],
+    "steps": [
+      "Refogue o frango com a cebola, o tomate e o azeite.",
+      "Misture os ingredientes da massa até formar uma massa moldável.",
+      "Separe pequenas porções e forre forminhas de empada.",
+      "Distribua o recheio.",
+      "Cubra com pequenas porções de massa.",
+      "Asse a 180 °C por 25 a 30 minutos."
+    ],
+    "time": "Preparo: 25 minutos • Forno: 25–30 minutos",
+    "servings": "10 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 17,
+    "name": "Bolinho assado de batata-doce e atum",
+    "category": "salgados",
+    "ingredients": [
+      "2 xícaras de batata-doce cozida e amassada",
+      "1 lata de atum em água, escorrido",
+      "1 ovo",
+      "3 colheres de sopa de farinha de arroz",
+      "½ cebola picada",
+      "Cheiro-verde",
+      "Sal e pimenta a gosto"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de batata-doce cozida e amassada",
+          "1 lata de atum em água, escorrido",
+          "1 ovo",
+          "3 colheres de sopa de farinha de arroz",
+          "½ cebola picada",
+          "Cheiro-verde",
+          "Sal e pimenta a gosto"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture a batata-doce com o atum.",
+      "Acrescente o ovo, a farinha e os temperos.",
+      "Misture até formar uma massa consistente.",
+      "Modele pequenos bolinhos.",
+      "Coloque em uma assadeira untada.",
+      "Asse por aproximadamente 25 minutos, virando na metade do tempo."
+    ],
+    "time": "Preparo: 20 minutos • Forno: 25 minutos",
+    "servings": "12 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 18,
+    "name": "Pãozinho de inhame com ervas",
+    "category": "salgados",
+    "ingredients": [
+      "2 xícaras de inhame cozido e amassado",
+      "1 xícara de polvilho azedo",
+      "½ xícara de polvilho doce",
+      "¼ de xícara de azeite",
+      "1 colher de chá de sal",
+      "Alecrim ou orégano a gosto"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de inhame cozido e amassado",
+          "1 xícara de polvilho azedo",
+          "½ xícara de polvilho doce",
+          "¼ de xícara de azeite",
+          "1 colher de chá de sal",
+          "Alecrim ou orégano a gosto"
+        ]
+      }
+    ],
+    "steps": [
+      "Amasse o inhame ainda morno.",
+      "Acrescente os polvilhos e o azeite.",
+      "Tempere com sal e ervas.",
+      "Misture até obter uma massa homogênea.",
+      "Modele bolinhas.",
+      "Coloque em uma assadeira e asse por aproximadamente 25 minutos."
+    ],
+    "time": "Preparo: 20 minutos • Forno: 25 minutos",
+    "servings": "12 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 19,
+    "name": "Quiche de legumes com massa de grão-de-bico",
+    "category": "salgados",
+    "ingredients": [
+      "1½ xícaras de farinha de grão-de-bico",
+      "¼ de xícara de azeite",
+      "¼ de xícara de água",
+      "Sal a gosto",
+      "3 ovos",
+      "½ xícara de leite de coco",
+      "1 cenoura ralada",
+      "½ abobrinha picada",
+      "½ cebola",
+      "Sal e ervas a gosto"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "1½ xícaras de farinha de grão-de-bico",
+          "¼ de xícara de azeite",
+          "¼ de xícara de água",
+          "Sal a gosto"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "3 ovos",
+          "½ xícara de leite de coco",
+          "1 cenoura ralada",
+          "½ abobrinha picada",
+          "½ cebola",
+          "Sal e ervas a gosto"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture os ingredientes da massa até formar uma massa firme.",
+      "Forre o fundo e as laterais de uma forma pequena.",
+      "Pré-asse por 10 minutos.",
+      "Refogue a cebola, a cenoura e a abobrinha.",
+      "Bata os ovos com o leite de coco e os temperos.",
+      "Misture os legumes ao creme.",
+      "Despeje sobre a massa.",
+      "Asse por aproximadamente 25 minutos ou até firmar."
+    ],
+    "time": "Preparo: 25 minutos • Forno: 35 minutos",
+    "servings": "6 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 20,
+    "name": "Panqueca salgada de farinha de arroz",
+    "category": "salgados",
+    "ingredients": [
+      "1 xícara de farinha de arroz",
+      "2 ovos",
+      "1 xícara de água",
+      "1 colher de sopa de azeite",
+      "Sal a gosto",
+      "1½ xícara de frango desfiado",
+      "½ tomate picado",
+      "½ cebola",
+      "Cheiro-verde"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "1 xícara de farinha de arroz",
+          "2 ovos",
+          "1 xícara de água",
+          "1 colher de sopa de azeite",
+          "Sal a gosto"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "1½ xícara de frango desfiado",
+          "½ tomate picado",
+          "½ cebola",
+          "Cheiro-verde"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata todos os ingredientes da massa no liquidificador.",
+      "Aqueça uma frigideira untada.",
+      "Coloque uma pequena porção da massa e espalhe.",
+      "Doure dos dois lados.",
+      "Prepare o recheio refogando o frango com os temperos.",
+      "Recheie as panquecas e enrole.",
+      "Sirva com molho de tomate caseiro."
+    ],
+    "time": "Preparo: 20 minutos",
+    "servings": "6 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 21,
+    "name": "Coxinha de Frango com Batata",
+    "category": "salgados",
+    "ingredients": [
+      "3 batatas médias cozidas e amassadas",
+      "1 xícara de farinha de arroz",
+      "1 colher de sopa de azeite",
+      "½ xícara de caldo de frango caseiro",
+      "Sal a gosto",
+      "2 xícaras de frango cozido e desfiado",
+      "½ cebola picada",
+      "1 tomate picado",
+      "1 colher de sopa de azeite",
+      "Cheiro-verde a gosto",
+      "Sal e temperos a gosto",
+      "2 ovos batidos",
+      "Farinha de rosca sem glúten"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes da massa",
+        "items": [
+          "3 batatas médias cozidas e amassadas",
+          "1 xícara de farinha de arroz",
+          "1 colher de sopa de azeite",
+          "½ xícara de caldo de frango caseiro",
+          "Sal a gosto"
+        ]
+      },
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "2 xícaras de frango cozido e desfiado",
+          "½ cebola picada",
+          "1 tomate picado",
+          "1 colher de sopa de azeite",
+          "Cheiro-verde a gosto",
+          "Sal e temperos a gosto"
+        ]
+      },
+      {
+        "title": "Para empanar",
+        "items": [
+          "2 ovos batidos",
+          "Farinha de rosca sem glúten"
+        ]
+      }
+    ],
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias. Amasse e reserve.",
+      "Em uma panela, refogue a cebola e o tomate no azeite, depois acrescente o frango desfiado, o sal e os temperos. Misture bem.",
+      "Em uma tigela, misture as batatas amassadas, a farinha de arroz, o caldo de frango e o azeite.",
+      "Misture até formar uma massa que não grude muito nas mãos. Se necessário, acrescente um pouco mais de farinha de arroz.",
+      "Pegue pequenas porções da massa, abra na mão e coloque o recheio no centro, feche e modele no formato de coxinha.",
+      "Passe nos ovos batidos e na farinha de rosca sem glúten.",
+      "Frite em óleo quente até dourar ou asse na air fryer até ficar crocante."
+    ],
+    "time": "Tempo não informado",
+    "servings": "Rendimento não informado",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 22,
+    "name": "Torta de atum",
+    "category": "salgados",
+    "ingredients": [
+      "2 latas de atum escorrido",
+      "1 tomate picado",
+      "½ cebola picada",
+      "Milho a gosto",
+      "Cheiro-verde a gosto",
+      "Sal e temperos a gosto"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes do recheio",
+        "items": [
+          "2 latas de atum escorrido",
+          "1 tomate picado",
+          "½ cebola picada",
+          "Milho a gosto",
+          "Cheiro-verde a gosto",
+          "Sal e temperos a gosto"
+        ]
+      }
+    ],
+    "steps": [
+      "No liquidificador, bata os ovos, o leite, o óleo e o sal.",
+      "Acrescente a farinha de arroz e o amido de milho e bata até ficar homogêneo.",
+      "Adicione o fermento e misture delicadamente.",
+      "Em uma tigela, misture o atum, o tomate, a cebola, o milho e os temperos, depois despeje metade da massa em uma forma untada.",
+      "Espalhe o recheio e cubra com o restante da massa.",
+      "Leve ao forno preaquecido a 180 °C por aproximadamente 35 a 40 minutos, até dourar."
+    ],
+    "time": "Tempo não informado",
+    "servings": "aproximadamente 8 porções",
+    "notes": "",
+    "needsReview": true
+  },
+  {
+    "id": 23,
+    "name": "Brigadeiro de chocolate com leite de coco",
+    "category": "doces",
+    "ingredients": [
+      "200 ml de leite de coco",
+      "½ xícara de açúcar demerara",
+      "4 colheres de sopa de cacau em pó",
+      "1 colher de sopa de óleo de coco",
+      "Cacau em pó para finalizar"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "200 ml de leite de coco",
+          "½ xícara de açúcar demerara",
+          "4 colheres de sopa de cacau em pó",
+          "1 colher de sopa de óleo de coco",
+          "Cacau em pó para finalizar"
+        ]
+      }
+    ],
+    "steps": [
+      "Coloque o leite de coco, o açúcar e o cacau em uma panela.",
+      "Acrescente o óleo de coco.",
+      "Cozinhe em fogo baixo, mexendo constantemente.",
+      "Continue até obter uma consistência espessa, que permita modelar depois de fria.",
+      "Transfira para um prato e deixe esfriar completamente.",
+      "Unte as mãos com óleo de coco e modele os brigadeiros.",
+      "Passe no cacau em pó."
+    ],
+    "time": "Preparo: 20 minutos",
+    "servings": "15 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 24,
+    "name": "Beijinho de coco",
+    "category": "doces",
+    "ingredients": [
+      "200 ml de leite de coco",
+      "1 xícara de coco ralado sem açúcar",
+      "½ xícara de açúcar",
+      "1 colher de sopa de óleo de coco",
+      "Coco ralado para finalizar"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "200 ml de leite de coco",
+          "1 xícara de coco ralado sem açúcar",
+          "½ xícara de açúcar",
+          "1 colher de sopa de óleo de coco",
+          "Coco ralado para finalizar"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture o leite de coco, o coco ralado e o açúcar em uma panela.",
+      "Acrescente o óleo de coco.",
+      "Cozinhe em fogo baixo, mexendo até engrossar.",
+      "Transfira para um prato e espere esfriar.",
+      "Modele pequenas bolinhas.",
+      "Passe no coco ralado."
+    ],
+    "time": "Preparo: 20 minutos",
+    "servings": "15 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 25,
+    "name": "Brownie de chocolate e castanhas",
+    "category": "doces",
+    "ingredients": [
+      "170 g de chocolate amargo sem leite",
+      "½ xícara de óleo de coco",
+      "3 ovos",
+      "¾ de xícara de açúcar mascavo",
+      "½ xícara de farinha de amêndoas",
+      "2 colheres de sopa de cacau",
+      "½ xícara de castanhas picadas",
+      "1 pitada de sal"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "170 g de chocolate amargo sem leite",
+          "½ xícara de óleo de coco",
+          "3 ovos",
+          "¾ de xícara de açúcar mascavo",
+          "½ xícara de farinha de amêndoas",
+          "2 colheres de sopa de cacau",
+          "½ xícara de castanhas picadas",
+          "1 pitada de sal"
+        ]
+      }
+    ],
+    "steps": [
+      "Derreta o chocolate com o óleo de coco em banho-maria.",
+      "Em outra tigela, bata os ovos com o açúcar.",
+      "Acrescente o chocolate derretido.",
+      "Misture a farinha de amêndoas, o cacau e o sal.",
+      "Adicione as castanhas.",
+      "Despeje em uma forma pequena forrada com papel-manteiga.",
+      "Asse por aproximadamente 25 minutos.",
+      "Espere esfriar antes de cortar."
+    ],
+    "time": "Preparo: 15 minutos • Forno: 25 minutos",
+    "servings": "9 pedaços",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 26,
+    "name": "Trufas de chocolate e coco",
+    "category": "doces",
+    "ingredients": [
+      "200 g de chocolate amargo sem leite",
+      "100 ml de leite de coco",
+      "2 colheres de sopa de coco ralado",
+      "Cacau em pó para finalizar"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "200 g de chocolate amargo sem leite",
+          "100 ml de leite de coco",
+          "2 colheres de sopa de coco ralado",
+          "Cacau em pó para finalizar"
+        ]
+      }
+    ],
+    "steps": [
+      "Aqueça o leite de coco.",
+      "Acrescente o chocolate picado.",
+      "Misture até formar um creme liso.",
+      "Adicione o coco ralado.",
+      "Leve à geladeira por aproximadamente 1 hora.",
+      "Modele pequenas trufas.",
+      "Passe no cacau em pó e conserve refrigeradas."
+    ],
+    "time": "Preparo: 20 minutos • Geladeira: 1 hora",
+    "servings": "12 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 27,
+    "name": "Cocada cremosa",
+    "category": "doces",
+    "ingredients": [
+      "2 xícaras de coco fresco ralado",
+      "1 xícara de açúcar",
+      "200 ml de leite de coco",
+      "½ xícara de água"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de coco fresco ralado",
+          "1 xícara de açúcar",
+          "200 ml de leite de coco",
+          "½ xícara de água"
+        ]
+      }
+    ],
+    "steps": [
+      "Coloque todos os ingredientes em uma panela.",
+      "Leve ao fogo médio, mexendo frequentemente.",
+      "Cozinhe até a mistura engrossar e o líquido reduzir.",
+      "Para uma cocada cremosa, retire do fogo ainda úmida.",
+      "Distribua em pequenos recipientes e deixe esfriar."
+    ],
+    "time": "Preparo: 20 minutos",
+    "servings": "8 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 28,
+    "name": "Cookies de amendoim e cacau",
+    "category": "doces",
+    "ingredients": [
+      "1 xícara de farinha de amendoim",
+      "½ xícara de açúcar mascavo",
+      "1 ovo",
+      "2 colheres de sopa de cacau em pó",
+      "2 colheres de sopa de óleo de coco",
+      "½ colher de chá de fermento químico"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "1 xícara de farinha de amendoim",
+          "½ xícara de açúcar mascavo",
+          "1 ovo",
+          "2 colheres de sopa de cacau em pó",
+          "2 colheres de sopa de óleo de coco",
+          "½ colher de chá de fermento químico"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture a farinha de amendoim com o açúcar e o cacau.",
+      "Acrescente o ovo e o óleo de coco.",
+      "Adicione o fermento.",
+      "Misture até obter uma massa moldável.",
+      "Faça pequenas bolinhas e achate com as mãos.",
+      "Coloque em uma assadeira forrada com papel-manteiga.",
+      "Asse por aproximadamente 15 minutos."
+    ],
+    "time": "Preparo: 10 minutos • Forno: 15 minutos",
+    "servings": "12 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 29,
+    "name": "Pudim de coco",
+    "category": "doces",
+    "ingredients": [
+      "400 ml de leite de coco",
+      "4 ovos",
+      "½ xícara de açúcar",
+      "½ xícara de coco ralado",
+      "1 colher de chá de essência de baunilha",
+      "1 xícara de açúcar",
+      "½ xícara de água quente"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes do pudim",
+        "items": [
+          "400 ml de leite de coco",
+          "4 ovos",
+          "½ xícara de açúcar",
+          "½ xícara de coco ralado",
+          "1 colher de chá de essência de baunilha"
+        ]
+      },
+      {
+        "title": "Ingredientes da calda",
+        "items": [
+          "1 xícara de açúcar",
+          "½ xícara de água quente"
+        ]
+      }
+    ],
+    "steps": [
+      "Derreta o açúcar da calda em uma panela até formar um caramelo.",
+      "Acrescente cuidadosamente a água quente e mexa até dissolver.",
+      "Espalhe o caramelo em uma forma de pudim.",
+      "Bata os ovos, o leite de coco, o açúcar e a baunilha.",
+      "Acrescente o coco ralado.",
+      "Despeje na forma caramelizada.",
+      "Asse em banho-maria a 180 °C por aproximadamente 50 a 60 minutos.",
+      "Espere esfriar e leve à geladeira por pelo menos 4 horas antes de desenformar."
+    ],
+    "time": "Preparo: 20 minutos • Forno: 50–60 minutos • Geladeira: 4 horas",
+    "servings": "8 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 30,
+    "name": "Cocadinha de forno",
+    "category": "doces",
+    "ingredients": [
+      "2 xícaras de coco ralado sem açúcar",
+      "2 ovos",
+      "½ xícara de açúcar",
+      "2 colheres de sopa de leite de coco"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de coco ralado sem açúcar",
+          "2 ovos",
+          "½ xícara de açúcar",
+          "2 colheres de sopa de leite de coco"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture o coco ralado com o açúcar.",
+      "Acrescente os ovos e o leite de coco.",
+      "Misture até incorporar.",
+      "Distribua em pequenas porções em forminhas.",
+      "Asse a 180 °C por aproximadamente 20 minutos, até dourar."
+    ],
+    "time": "Preparo: 10 minutos • Forno: 20 minutos",
+    "servings": "10 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 31,
+    "name": "Docinho de tâmaras com cacau",
+    "category": "doces",
+    "ingredients": [
+      "1 xícara de tâmaras sem caroço",
+      "½ xícara de castanhas-de-caju",
+      "2 colheres de sopa de cacau em pó",
+      "1 colher de sopa de água, se necessário",
+      "Coco ralado ou cacau para finalizar"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "1 xícara de tâmaras sem caroço",
+          "½ xícara de castanhas-de-caju",
+          "2 colheres de sopa de cacau em pó",
+          "1 colher de sopa de água, se necessário",
+          "Coco ralado ou cacau para finalizar"
+        ]
+      }
+    ],
+    "steps": [
+      "Deixe as tâmaras de molho em água morna por 10 minutos, caso estejam secas.",
+      "Escorra e coloque no processador.",
+      "Acrescente as castanhas e o cacau.",
+      "Processe até formar uma massa uniforme.",
+      "Se necessário, acrescente um pouco de água.",
+      "Modele bolinhas e finalize com coco ralado ou cacau."
+    ],
+    "time": "Preparo: 15 minutos",
+    "servings": "12 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 32,
+    "name": "Paçoca caseira",
+    "category": "doces",
+    "ingredients": [
+      "2 xícaras de amendoim torrado sem pele",
+      "½ xícara de açúcar mascavo",
+      "1 pitada de sal"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de amendoim torrado sem pele",
+          "½ xícara de açúcar mascavo",
+          "1 pitada de sal"
+        ]
+      }
+    ],
+    "steps": [
+      "Coloque o amendoim no processador.",
+      "Pulse até ficar triturado.",
+      "Acrescente o açúcar e o sal.",
+      "Processe até a mistura começar a liberar seus óleos naturais e ficar compactável.",
+      "Coloque em uma forma pequena e pressione bem.",
+      "Corte em quadradinhas e sirva."
+    ],
+    "time": "Preparo: 15 minutos",
+    "servings": "12 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 33,
+    "name": "Sorvete natural de banana e morango",
+    "category": "geladas",
+    "ingredients": [
+      "3 bananas maduras congeladas em rodelas",
+      "1 xícara de morangos congelados",
+      "2 colheres de sopa de leite de coco, se necessário"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "3 bananas maduras congeladas em rodelas",
+          "1 xícara de morangos congelados",
+          "2 colheres de sopa de leite de coco, se necessário"
+        ]
+      }
+    ],
+    "steps": [
+      "Coloque as bananas congeladas no processador.",
+      "Acrescente os morangos.",
+      "Bata até obter uma consistência cremosa.",
+      "Se necessário, adicione o leite de coco aos poucos.",
+      "Sirva imediatamente ou leve ao congelador por 30 minutos para ficar mais firme."
+    ],
+    "time": "Preparo: 10 minutos • Congelamento prévio: 4 horas",
+    "servings": "4 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 34,
+    "name": "Sorvete cremoso de chocolate",
+    "category": "geladas",
+    "ingredients": [
+      "400 ml de leite de coco integral",
+      "½ xícaras de cacau em pó",
+      "½ xícara de açúcar",
+      "1 colher de chá de essência de baunilha",
+      "1 colher de sopa de óleo de coco"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "400 ml de leite de coco integral",
+          "½ xícaras de cacau em pó",
+          "½ xícara de açúcar",
+          "1 colher de chá de essência de baunilha",
+          "1 colher de sopa de óleo de coco"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Transfira para um recipiente com tampa.",
+      "Leve ao congelador por aproximadamente 2 horas.",
+      "Retire e bata novamente para quebrar os cristais de gelo.",
+      "Volte ao congelador por mais 3 horas ou até atingir a consistência desejada."
+    ],
+    "time": "Preparo: 15 minutos • Congelamento: 5 horas",
+    "servings": "6 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 35,
+    "name": "Mousse de maracujá",
+    "category": "geladas",
+    "ingredients": [
+      "200 ml de leite de coco",
+      "200 g de castanhas-de-caju cruas deixadas de molho por 4 horas",
+      "½ xícara de polpa de maracujá",
+      "⅓ de xícara de açúcar",
+      "Polpa de maracujá para decorar"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "200 ml de leite de coco",
+          "200 g de castanhas-de-caju cruas deixadas de molho por 4 horas",
+          "½ xícara de polpa de maracujá",
+          "⅓ de xícara de açúcar",
+          "Polpa de maracujá para decorar"
+        ]
+      }
+    ],
+    "steps": [
+      "Escorra as castanhas.",
+      "Coloque no liquidificador com o leite de coco e o açúcar.",
+      "Bata até formar um creme liso.",
+      "Acrescente a polpa de maracujá.",
+      "Bata novamente até incorporar.",
+      "Distribua em taças e leve à geladeira por 3 horas.",
+      "Finalize com um pouco de polpa de maracujá."
+    ],
+    "time": "Preparo: 15 minutos • Geladeira: 3 horas",
+    "servings": "6 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 36,
+    "name": "Picolé de manga com coco",
+    "category": "geladas",
+    "ingredients": [
+      "2 mangas maduras",
+      "200 ml de leite de coco",
+      "1 colher de sopa de mel ou açúcar, se necessário"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 mangas maduras",
+          "200 ml de leite de coco",
+          "1 colher de sopa de mel ou açúcar, se necessário"
+        ]
+      }
+    ],
+    "steps": [
+      "Descasque e corte as mangas.",
+      "Bata no liquidificador com o leite de coco.",
+      "Prove e adoce se necessário.",
+      "Distribua em formas de picolé.",
+      "Coloque os palitos.",
+      "Leve ao congelador por aproximadamente 5 horas."
+    ],
+    "time": "Preparo: 10 minutos • Congelamento: 5 horas",
+    "servings": "6 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 37,
+    "name": "Açaí na tigela com frutas",
+    "category": "geladas",
+    "ingredients": [
+      "300 g de polpa de açaí pura congelada",
+      "1 banana congelada",
+      "½ banana fresca para decorar",
+      "½ xícara de morangos",
+      "2 colheres de sopa de granola certificada sem glúten"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "300 g de polpa de açaí pura congelada",
+          "1 banana congelada",
+          "½ banana fresca para decorar",
+          "½ xícara de morangos",
+          "2 colheres de sopa de granola certificada sem glúten"
+        ]
+      }
+    ],
+    "steps": [
+      "Retire o açaí do congelador alguns minutos antes.",
+      "Bata no processador com a banana congelada.",
+      "Se necessário, acrescente uma pequena quantidade de água.",
+      "Coloque em duas tigelas.",
+      "Decore com banana, morangos e granola."
+    ],
+    "time": "Preparo: 10 minutos",
+    "servings": "2 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 38,
+    "name": "Picolé de limão com coco",
+    "category": "geladas",
+    "ingredients": [
+      "200 ml de leite de coco",
+      "½ xícara de água",
+      "Suco de 2 limões",
+      "4 colheres de sopa de açúcar",
+      "Raspas de limão"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "200 ml de leite de coco",
+          "½ xícara de água",
+          "Suco de 2 limões",
+          "4 colheres de sopa de açúcar",
+          "Raspas de limão"
+        ]
+      }
+    ],
+    "steps": [
+      "Misture o leite de coco com a água.",
+      "Acrescente o suco de limão e o açúcar.",
+      "Mexa até dissolver.",
+      "Adicione as raspas de limão.",
+      "Distribua em formas de picolé.",
+      "Leve ao congelador por aproximadamente 5 horas."
+    ],
+    "time": "Preparo: 10 minutos • Congelamento: 5 horas",
+    "servings": "6 unidades",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 39,
+    "name": "Panna cotta de coco com frutas vermelhas",
+    "category": "geladas",
+    "ingredients": [
+      "400 ml de leite de coco",
+      "½ xícara de açúcar",
+      "1 colher de chá de essência de baunilha",
+      "1 envelope de gelatina incolor sem sabor (12 g)",
+      "5 colheres de sopa de água para hidratar a gelatina",
+      "1 xícara de frutas vermelhas",
+      "2 colheres de sopa de açúcar",
+      "2 colheres de sopa de água"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "400 ml de leite de coco",
+          "½ xícara de açúcar",
+          "1 colher de chá de essência de baunilha",
+          "1 envelope de gelatina incolor sem sabor (12 g)",
+          "5 colheres de sopa de água para hidratar a gelatina"
+        ]
+      },
+      {
+        "title": "Ingredientes da calda",
+        "items": [
+          "1 xícara de frutas vermelhas",
+          "2 colheres de sopa de açúcar",
+          "2 colheres de sopa de água"
+        ]
+      }
+    ],
+    "steps": [
+      "Hidrate a gelatina conforme as instruções da embalagem.",
+      "Aqueça o leite de coco com o açúcar e a baunilha, sem deixar ferver.",
+      "Incorpore a gelatina hidratada.",
+      "Distribua em taças e leve à geladeira por aproximadamente 4 horas.",
+      "Para a calda, cozinhe as frutas com o açúcar e a água até formar uma mistura levemente espessa.",
+      "Espere esfriar e coloque sobre a panna cotta."
+    ],
+    "time": "Preparo: 15 minutos • Geladeira: 4 horas",
+    "servings": "4 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 40,
+    "name": "Gelado cremoso de coco",
+    "category": "geladas",
+    "ingredients": [
+      "400 ml de leite de coco",
+      "1 xícara de coco ralado",
+      "½ xícara de açúcar",
+      "200 ml de creme vegetal de coco",
+      "1 colher de chá de essência de baunilha"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "400 ml de leite de coco",
+          "1 xícara de coco ralado",
+          "½ xícara de açúcar",
+          "200 ml de creme vegetal de coco",
+          "1 colher de chá de essência de baunilha"
+        ]
+      }
+    ],
+    "steps": [
+      "Bata o leite de coco, o açúcar e o creme vegetal no liquidificador.",
+      "Acrescente a baunilha.",
+      "Misture o coco ralado.",
+      "Coloque em um recipiente com tampa.",
+      "Leve ao congelador por aproximadamente 4 horas.",
+      "Retire alguns minutos antes de servir."
+    ],
+    "time": "Preparo: 15 minutos • Congelamento: 4 horas",
+    "servings": "6 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 41,
+    "name": "Frozen de morango com iogurte vegetal",
+    "category": "geladas",
+    "ingredients": [
+      "2 xícaras de morangos congelados",
+      "1 xícara de iogurte vegetal de coco sem açúcar",
+      "2 colheres de sopa de mel ou açúcar",
+      "Suco de ½ limão"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "2 xícaras de morangos congelados",
+          "1 xícara de iogurte vegetal de coco sem açúcar",
+          "2 colheres de sopa de mel ou açúcar",
+          "Suco de ½ limão"
+        ]
+      }
+    ],
+    "steps": [
+      "Coloque os morangos congelados no processador.",
+      "Acrescente o iogurte vegetal.",
+      "Adicione o mel e o suco de limão.",
+      "Bata até obter uma textura cremosa.",
+      "Sirva imediatamente ou leve ao congelador por 20 minutos."
+    ],
+    "time": "Preparo: 10 minutos",
+    "servings": "4 porções",
+    "notes": "",
+    "needsReview": false
+  },
+  {
+    "id": 42,
+    "name": "Sorbet de abacaxi com hortelã",
+    "category": "geladas",
+    "ingredients": [
+      "3 xícaras de abacaxi maduro picado e congelado",
+      "Suco de ½ limão",
+      "5 folhas de hortelã",
+      "2 colheres de sopa de água, se necessário",
+      "Açúcar ou mel a gosto, opcional"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Ingredientes",
+        "items": [
+          "3 xícaras de abacaxi maduro picado e congelado",
+          "Suco de ½ limão",
+          "5 folhas de hortelã",
+          "2 colheres de sopa de água, se necessário",
+          "Açúcar ou mel a gosto, opcional"
+        ]
+      }
+    ],
+    "steps": [
+      "Coloque o abacaxi congelado no processador.",
+      "Acrescente o suco de limão e as folhas de hortelã.",
+      "Bata até formar um creme gelado.",
+      "Acrescente água aos poucos, apenas se necessário para ajudar a bater.",
+      "Prove e adoce se desejar.",
+      "Sirva imediatamente ou mantenha no congelador por mais 30 minutos."
+    ],
+    "time": "Preparo: 10 minutos • Congelamento prévio: 4 horas",
+    "servings": "4 porções",
+    "notes": "",
+    "needsReview": false
+  }
+]
